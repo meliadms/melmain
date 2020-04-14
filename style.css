@@ -1,0 +1,24 @@
+html {
+  font_family: Fixed monospace;
+  font-size: 18px;
+}
+
+body {
+  height: 100%;
+}
+
+#logo {
+  height: 100%;
+  width: auto;
+}
+
+.main-col {
+  float: left;
+  width: 50%;
+}
+
+.sidebar-col {
+  background-color: #bfbfbf;
+  float:right;
+  width: 50%;
+}
